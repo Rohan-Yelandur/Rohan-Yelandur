@@ -1,5 +1,5 @@
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,eclipse,java,js,nodejs,react,express,html,css,blender,linux,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,eclipse,java,js,nodejs,react,express,html,css,blender,linux)](https://skillicons.dev)
 <!--
 **Rohan-Yelandur/Rohan-Yelandur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
