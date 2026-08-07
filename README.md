@@ -1,4 +1,4 @@
-<img src="spotify-visualizer.svg" align="right" width="250" />
+<img src="spotify-visualizer.svg" align="right" width="35%" />
 
 # Hey, I'm Rohan! 👋🏽
 
