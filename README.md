@@ -7,9 +7,9 @@ Currently studying computer science at The University of Texas at Austin 🤘
 
 
 Interested in...
-- designing & building products people (or just me) use, especially for the open-source community
-- researching in the fields of robotics and machine learning
-- competing in hackathons (I've been to 6) and meeting smart people
+- Open source
+- Robotics and ML research
+- Competing in hackathons
 
 <br>
 
